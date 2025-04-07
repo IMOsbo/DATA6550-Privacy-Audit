@@ -10,8 +10,8 @@ Privacy Review Report
 
 The links below are working details for this project:
 
-- [Google Doc Report - Online](https://docs.google.com/document/d/1b8kKUOIZ2RhZpUNJ0Sl_qWVmRDGhy1shNkVI_WvkDN4/edit?usp=sharing){:target="_blank"}
-- [Google Spreadsheet Review - Online](https://docs.google.com/spreadsheets/d/1W1V5RCoNInvhTc5KMvjMoo-d5jUbP74Wvg2s5P2xN1k/edit?usp=sharing){:target="_blank"}
+- [Google Doc Report - Online](https://docs.google.com/document/d/1b8kKUOIZ2RhZpUNJ0Sl_qWVmRDGhy1shNkVI_WvkDN4/edit?usp=sharing)
+- [Google Spreadsheet Review - Online](https://docs.google.com/spreadsheets/d/1W1V5RCoNInvhTc5KMvjMoo-d5jUbP74Wvg2s5P2xN1k/edit?usp=sharing)
 
 ## Team / Group Members
 
