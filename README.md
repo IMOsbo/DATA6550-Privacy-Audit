@@ -26,21 +26,17 @@ The group/team is comprised of:
 
 The general stucture of this repository is as following:
 
-### Code (`/Code`)
+### Code (`/Comparison`)
 
-This folder contains **all** group members code contributions in separate folders `Hoehn`, `Rogel`, `Osborne`, and `Woods`.
+This folder contains the **total** group's comaprision form the analysis folders: `Hoehn`, `Rogel`, `Osborne`, and `Woods`.
 
-### Data (`/Data`)
+### Data (`/Agreements`)
 
-This folder contains the provided data files.
+This folder contains the agreements we as a group approved.
 
 ### Analysis (`/Analysis`)
 
-This section of the repository holds datasets, maps, and other useful information that we sued for this project.
-
-Some intereting links are:
-
-- HPC (Hamilton): [Link to Hamilton](https://hamilton-od.cs.mtsu.edu/)
+This section of the repository holds the individuals details on the analysis. Each group member has their own folder.
 
 ### Collaboration (`/Collaboration`)
 
