@@ -26,11 +26,11 @@ The group/team is comprised of:
 
 The general stucture of this repository is as following:
 
-### Code (`/Comparison`)
+### Comparison (`/Comparison`)
 
 This folder contains the **total** group's comaprision form the analysis folders: `Hoehn`, `Rogel`, `Osborne`, and `Woods`.
 
-### Data (`/Agreements`)
+### Agreements (`/Agreements`)
 
 This folder contains the agreements we as a group approved.
 
